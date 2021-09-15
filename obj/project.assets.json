@@ -978,11 +978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\api_aspnet_mysql\\api.csproj",
+      "projectUniqueName": "E:\\api_aspnet\\api.csproj",
       "projectName": "api",
-      "projectPath": "E:\\api_aspnet_mysql\\api.csproj",
+      "projectPath": "E:\\api_aspnet\\api.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "E:\\api_aspnet_mysql\\obj\\",
+      "outputPath": "E:\\api_aspnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"

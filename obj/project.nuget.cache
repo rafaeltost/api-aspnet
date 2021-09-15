@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuhXxG5ZBkyHGTpd6De0Z3bWe4i1U3E46FOMv0hzhB++0IkHYCyzYziyoBtKnFQEF8NqyESjIZMWNGegAQy00w==",
+  "dgSpecHash": "+iceeO6d4rvOkSY79ERmamfQ13I1JgpGgNXIJOeu8lrf5fBcfk9V/lJ1AJ/ntL3S1hmvS0sog1ARfpo0jfsIAg==",
   "success": true,
-  "projectFilePath": "E:\\api_aspnet_mysql\\api.csproj",
+  "projectFilePath": "E:\\api_aspnet\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
